@@ -25,7 +25,6 @@
 # ... Écrivez votre code ici ...
 
 
-jjjjjjj
 print(ma_variable)
 
 
