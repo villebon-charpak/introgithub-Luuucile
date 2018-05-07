@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 # encoding: utf-8
 
 ###############################
 # Exercices sur les variables #
 ###############################
 
-
+dfhdfgh
 # Savoirs-faires :
 #    créer une variable et lui affecter une valeur
 #    afficher des variables
